@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+.container
+
+.sale{
+    width: 1200px;     
+    background: aqua;
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;
+    
+}
